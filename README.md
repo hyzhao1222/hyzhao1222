@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hyzhao1222
-- 👋 I am a primary school student in Ch
+- 👋 I am a primary school student in China
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning how to program by python
 - 🌱 I'm also learning how to make games
